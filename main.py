@@ -43,4 +43,4 @@ def main(keywords):
     stream.filter(track=keywords, languages=["en"])
 
 if __name__ == "__main__":
-    main(["vplmncv", "@montso_m"])
+    main(["SpreadMyHustle", "Spreadmyhustle", "spreadmyhustle", "@SpreadMyHustle"])
